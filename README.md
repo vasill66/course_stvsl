@@ -1,2 +1,2 @@
-# course_stvsl
+#Example of README.md
 course_uoa
